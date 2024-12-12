@@ -25,3 +25,7 @@ body {
 .nav a:hover{
     text-decoration: underline;
 }
+
+.section-image{
+    width: 100%;
+}
